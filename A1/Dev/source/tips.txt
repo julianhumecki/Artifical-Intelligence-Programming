@@ -1,0 +1,11 @@
+When developing your heuristic:
+
+1) Think about states at which the problem is no longer getting solved (dead ends). For example, you could move your large & medium snowballs to the goal, but won't ever be able to bring your small snowball to the goal. Why? Think about how this can happen.
+
+2) Consider what role the robot's position from the snowballs/goal state plays in coming up with a heuristic value
+
+3) Make sure the value of your heuristic is zero, if the goal state has been reached. It is easy to get lost in one's ideas. Keep this in mind to make sure, you are developing a valid heuristic.
+
+4) Factor in obstacles to your heuristic. Hint: Can obstacles form dead ends? How do you detect them?
+
+5) Focus on good spots that you want to get your snowballs to. What spots apart from the goal do you want to get the snowballs to? 
