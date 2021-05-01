@@ -1,0 +1,1 @@
+python3 tagger.py -d training1.txt training2.txt training3.txt -t test1.txt -o output.txt
