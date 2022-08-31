@@ -1,8 +1,8 @@
-# csc384
+# Artificial Intelligence
 
 This course had 4 main assignments.
 
-1) <b>Sokoban solver</b>: tests your ability to implement a well thought out heuristic.
-2) <b>Othello agent</b>: tests your recursive understanding of algorithms
-3) <b>Constraint Satisfaction: Tenner Grid</b>: cool problem
-4) <b> Probabilistic Reasoning: NLP Part-of-Speech Tagger</b>: build an HMM and implement Viterbi's algorithm to determine the most likely sequence.
+1) <b>Sokoban solver</b>: implemented a heuristic to quickly solve any sokoban grid configuration.
+2) <b>Othello agent</b>: implemented min max and alpha beta pruning to produce a game playing agent
+3) <b>Constraint Satisfaction: Tenner Grid</b>: solves a CSP using Generalized Arc Consistency
+4) <b> Probabilistic Reasoning: NLP Part-of-Speech Tagger</b>: built an HMM (Hidden Markov Model) and implemented Viterbi's algorithm to determine the most likely sequence.
