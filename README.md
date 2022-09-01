@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-This course had 4 main assignments.
+This course had 4 main assignments, and I averaged 97% on these assignments.
 
 1) <b>Sokoban solver</b>: implemented a heuristic to quickly solve any sokoban grid configuration.
 2) <b>Othello agent</b>: implemented min max and alpha beta pruning to produce a game playing agent
